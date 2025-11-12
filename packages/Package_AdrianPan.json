@@ -1,1 +1,13 @@
-{ "hpath": "C:/HoudiniPackage_AdrianPan" }
+{
+    "hpath": "C:/HoudiniPackage_AdrianPan",
+    "env" : 
+    [
+        {
+            "PATH":
+            {
+                "value": "C:/HoudiniPackage_AdrianPan/bin",
+                "method": "append"
+            }
+        }
+    ]
+}
