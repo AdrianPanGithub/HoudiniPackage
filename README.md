@@ -4,13 +4,13 @@ Welcome to the [repository](https://github.com/AdrianPanGithub/HoudiniPackage) f
 
 # Compatibility
 
-Support Houdini 21.0, Nvidia Cuda >= 12.2 (Driver version >= 537).
+Support Houdini 22.0, Nvidia Cuda >= 12.2 (Driver version >= 537).
 
 # Installation
 01. Git clone this [repository](https://github.com/AdrianPanGithub/HoudiniPackage) to your computer. 
 02. Changed the paths in `packages/Package_AdrianPan.json` to the path of this repo in your computer.  
-03. Copy `packages/Package_AdrianPan.json` to `your document/houdini21.0/packages/`.
+03. Copy `packages/Package_AdrianPan.json` to `your document/houdini22.0/packages/`.
 
-    e.g. `C:/Users/YourUserName/Documents/houdini21.0/packages/Package_AdrianPan.json`
+    e.g. `C:/Users/YourUserName/Documents/houdini22.0/packages/Package_AdrianPan.json`
 
 This Plugin will automatically find the correct houdini version on your computer, or you can specify a custom Houdini installation in the plug-in settings.
